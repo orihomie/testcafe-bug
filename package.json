@@ -1,0 +1,25 @@
+{
+  "name": "testcafe-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "testcafe": "testcafe chrome --ts-config-path testcafe.tsconfig.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "test": "tests"
+  },
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^13.13.5",
+    "axios": "^0.19.2",
+    "dayjs": "^1.8.26",
+    "fn-args": "^5.0.0",
+    "redis": "^3.0.2",
+    "testcafe": "^1.8.4",
+    "ts-node": "^8.10.1",
+    "typescript": "^3.8.3"
+  }
+}

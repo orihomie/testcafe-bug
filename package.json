@@ -14,7 +14,7 @@
   "description": "",
   "devDependencies": {
     "@types/node": "^13.13.5",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "dayjs": "^1.8.26",
     "fn-args": "^5.0.0",
     "redis": "^3.0.2",
